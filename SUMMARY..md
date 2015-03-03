@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Drafts and Notes
+* [Drafts and Notes](DraftNotes.md)
 
