@@ -2,7 +2,11 @@ Started with:
 
 8 developers
 
+Product manager provides requirements document with detailed specs and Photoshop mockups.
+
 SVN source control with branched main repo. Development for each planned release starts with a branch of the previous branch and all developers work off of the same branch. After each release, the branch is merged to the next branch and merged back into trunk. There can be multiple branches in development at one time, but usually not more than 2. Periodically, the oldest active branch is merged its child branch.
+
+Developer code review in SVN tool.
 
 Automated nightly build.
 
@@ -17,6 +21,8 @@ Manual testing of release changes by QA in UAT environment.
 Manual regression test of release by QA in UAT environment.
 
 Manual deployment validation of release by QA in production.
+
+No metrics on any aspect of the pipeline.
 
 
 
