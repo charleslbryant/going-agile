@@ -1,3 +1,25 @@
+Started with:
+
+8 developers
+
+SVN source control with branched main repo. Development for each planned release starts with a branch of the previous branch and all developers work off of the same branch. After each release, the branch is merged to the next branch and merged back into trunk. There can be multiple branches in development at one time, but usually not more than 2. Periodically, the oldest active branch is merged its child branch.
+
+Automated nightly build.
+
+Automated nightly deploy to development environment.
+
+Manual deploy to UAT and production environment.
+
+Manual testing of release changes in development environment by the developers.
+
+Manual testing of release changes by QA in UAT environment.
+
+Manual regression test of release by QA in UAT environment.
+
+Manual deployment validation of release by QA in production.
+
+
+
 Before the start of each sprint the delivery team convenes to plan the sprint. The first meeting is a requirement review. In the requirement review, the team will discuss the requirements and break out tickets. How this is done is not really important as long as the team agrees on the break out. 
 
 We try to break out tickets so that they are large enough for at least a days work for one developer. If a ticket is larger than a few days it should be broken down into sub tickets. 
