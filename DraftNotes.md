@@ -1,6 +1,6 @@
 v1.0:
 
-1 product manager
+1 product manager (VP)
 1 development manager
 1 tech lead
 5 developers
@@ -43,8 +43,9 @@ Development QA was integrated into the QA team and developers had to take on the
 Junior developer tasked with creating automated tests for one of the applications.
 
 v3.0
-1 product manager
-1 development manager
+1 product manager (VP)
+1 business analyst
+1 development manager (VP)
 1 tech manager
 4 developers
 2 automation engineers
@@ -53,11 +54,16 @@ v3.0
 
 Development moved 1 developer to focus totally on production support and one to help with customer implementations and they are not counted in the headcount above.
 
+Product manager added a business analyst who is responsible for creating specs and moved to less detailed Photoshop laced specs to more strategic direction based specs and joint formulation of acceptance criteria with the entire delivery team.
+
 Automation team formally organized and focused on creating the testing framework and building out the continuous delivery environment. The automation team also focused on development operations in that they led the effort to implement infrastructure as code. Lastly, the automation took over manually testing in the development environment.
 
 Database administrator focuses on revamping database operations from scripting, architecture, monitoring, performance...
 
+As a side note in this incarnation of the team the development manager was promoted to VP, the tech lead was promoted to a manager, and 1 of the automation engineers was designated lead. 
 
+
+##Sprint Planning
 
 Before the start of each sprint the delivery team convenes to plan the sprint. The first meeting is a requirement review. In the requirement review, the team will discuss the requirements and break out tickets. How this is done is not really important as long as the team agrees on the break out. 
 
@@ -77,10 +83,16 @@ The next sprint planning meeting is to get a consensus on the acceptance criteri
 
 The sprint lead will review the estimates with the development manager to plan the sprint capacity. The development manager will meet with product management to get sign off on the acceptance criteria, estimate, and capacity plan. Once an agreement is achieved the managers will agree on a sprint schedule. Generally, the schedule gives dates for start development, end development, sprint demo, deployment to UAT, deployment to production. After the management green lights the sprint development can commence on the scheduled date. 
 
+#Testing
+
+##Acceptance Test
 Acceptance Tests are ran throughout the day a scheduled times. Acceptance tests are tagged with ticket number. The automated acceptance tests will parse the change set for ticket numbers and will add the numbers as test tags to the command line that controls what tests to run. The test runner is smart enough to take the test tags from the command line and run only those tests that have a tag matching the ticket number. It is vital that each check-in has an associated ticket number. There should be a pre-commit check that verifies that the ticket includes the ticket number. If the team isn't diligence about adding ticket numbers, tests won't run for the check-in and this puts the ticket in jeopardy. So, it should be carefully guarded during code review.
 
+#Release Test
 Release tests are ran nightly. Acceptance Tests are also tagged with the release they are scheduled to deploy with. Nightly all of the release tagged tests are ran so we have a daily indication of what tests are passing or failing.
 
+##Regression Test
 We also run regression tests nightly. Regression tests are acceptance tests with additional scenarios to cover additional criteria.
 
-Testing quality takes precedence over developing functionality. Testing security takes precedence over testing quality. Testing is basically attempting to disprove a theory that a feature works, is secure, is performant...etc.
+##Development Focus
+Much like the effort to invert the testing triangle, we had to begin to invert the focus in regards to adding features, quality and security. At first adding features and changes was the most important aspect of our delivery. Testing was second and would suffer in the name of adding features. Security was an after thought and only came up periodically during penetration testing and annual security training for developers. Testing quality takes precedence over developing functionality. Testing security takes precedence over testing quality. Testing is basically attempting to disprove a theory that a feature works, is secure, is performant...etc. Testing security has to be the most important aspect as our customers trust us to keep their information private and secure especially since we are in the financial industry.
