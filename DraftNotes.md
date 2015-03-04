@@ -1,69 +1,64 @@
-v1.0:
+#Team Evolution
 
-1 product manager (VP)
-1 development manager
-1 tech lead
-5 developers
-1 development QA
-2 QA (part time)
+##v1.0
 
-Product manager provides requirements document with detailed specs and Photoshop mockups.
+* 1 product manager (VP)
+* 1 development manager
+* 1 tech lead
+* 5 developers
+* 1 development QA
+* 2 QA (part time)
 
-SVN source control with branched main repo. Development for each planned release starts with a branch of the previous branch and all developers work off of the same branch. After each release, the branch is merged to the next branch and merged back into trunk. There can be multiple branches in development at one time, but usually not more than 2. Periodically, the oldest active branch is merged its child branch.
 
-Developer code review in SVN tool.
+* Product manager provides requirements document with detailed specs and Photoshop mockups.
+* SVN source control with branched main repo. Development for each planned release starts with a branch of the previous branch and all developers work off of the same branch. After each release, the branch is merged to the next branch and merged back into trunk. There can be multiple branches in development at one time, but usually not more than 2. Periodically, the oldest active branch is merged its child branch.
+* Developer code review in SVN tool.
+* Automated nightly build.
+* Automated nightly deploy to development environment.
+* Manual deploy to UAT and production environment.
+* Manual testing of release changes in development environment by the development QA.
+* Manual testing of release changes by QA in UAT environment.
+* Manual regression test of release by QA in UAT environment.
+* Manual deployment validation of release by QA in production.
+* No metrics on any aspect of the pipeline.
 
-Automated nightly build.
+##v2.0
 
-Automated nightly deploy to development environment.
+* 1 product manager
+* 1 development manager
+* 1 tech lead
+* 6 developers
+* 1 junior developer
+* 2 QA (part time)
 
-Manual deploy to UAT and production environment.
+* Development QA was integrated into the QA team and developers had to take on the role of manually testing the release in the development environment.
+* Junior developer tasked with creating automated tests for one of the applications.
 
-Manual testing of release changes in development environment by the development QA.
+##v3.0
 
-Manual testing of release changes by QA in UAT environment.
+* 1 product manager (VP)
+* 1 business analyst
+* 1 development manager (VP)
+* 1 tech manager
+* 4 developers
+* 2 automation engineers
+* 1 database administrator
+* 4 QA (part time)
 
-Manual regression test of release by QA in UAT environment.
-
-Manual deployment validation of release by QA in production.
-
-No metrics on any aspect of the pipeline.
-
-v2.0
-
-1 product manager
-1 development manager
-1 tech lead
-6 developers
-1 junior developer
-2 QA (part time)
-
-Development QA was integrated into the QA team and developers had to take on the role of manually testing the release in the development environment.
-
-Junior developer tasked with creating automated tests for one of the applications.
-
-v3.0
-1 product manager (VP)
-1 business analyst
-1 development manager (VP)
-1 tech manager
-4 developers
-2 automation engineers
-1 database administrator
-4 QA (part time)
-
-Development moved 1 developer to focus totally on production support and one to help with customer implementations and they are not counted in the headcount above.
-
-Product manager added a business analyst who is responsible for creating specs and moved to less detailed Photoshop laced specs to more strategic direction based specs and joint formulation of acceptance criteria with the entire delivery team.
-
-Automation team formally organized and focused on creating the testing framework and building out the continuous delivery environment. The automation team also focused on development operations in that they led the effort to implement infrastructure as code. Lastly, the automation took over manually testing in the development environment.
-
-Database administrator focuses on revamping database operations from scripting, architecture, monitoring, performance...
+* Development moved 1 developer to focus totally on production support and one to help with customer implementations and they are not counted in the headcount above.
+* Product manager added a business analyst who is responsible for creating specs and moved to less detailed Photoshop laced specs to more strategic direction based specs and joint formulation of acceptance criteria with the entire delivery team.
+* Automation team formally organized and focused on creating the testing framework and building out the continuous delivery environment. The automation team also focused on development operations in that they led the effort to implement infrastructure as code. Lastly, the automation took over manually testing in the development environment.
+* Database administrator focuses on revamping database operations from scripting, architecture, monitoring, performance...
 
 As a side note in this incarnation of the team the development manager was promoted to VP, the tech lead was promoted to a manager, and 1 of the automation engineers was designated lead. 
 
+#Sprint Planning
 
-##Sprint Planning
+In the beginning we had no real team planning. Tickets were assigned by the development manager and the developers completed the tickets.
+
+We had daily standups to review status, but it was more of a status meeting for the development manager than an effective tool to build team work and accelerate the flow of work.
+
+#Requirements Review
 
 Before the start of each sprint the delivery team convenes to plan the sprint. The first meeting is a requirement review. In the requirement review, the team will discuss the requirements and break out tickets. How this is done is not really important as long as the team agrees on the break out. 
 
@@ -78,6 +73,8 @@ The scribe will keep a document outlining what was discussed and open questions.
 Open questions will be handled by the analysts who is responsible for getting the answers.
 
 Once the team has gone through the entire requirements document the sprint lead will add the tickets to the ticket management system.
+
+##Estimation
 
 The next sprint planning meeting is to get a consensus on the acceptance criteria and estimate for the tickets. The sprint lead will again drive the meeting and will update the ticket in the ticket system with acceptance criteria and estimate. The lead brings up the ticket system on a projector and the team discussion each ticket. The sprint lead will do a quick review of the ticket and a discussion ensues on what is believed to be delivered by the ticket. Once the lead feels the team is at a point to make a decision, the lead will write the acceptance criteria and ask the team for agreement. The team will weigh in and the lead will change as necessary until the entire team agrees. Then the lead will ask for estimates. This could be planning poker or other estimate technique, but having the team just shout out estimates works too. Again, once an agreement is met on the estimate it is recorded on the ticket. 
 
