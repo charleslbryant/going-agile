@@ -56,7 +56,7 @@ As a side note in this incarnation of the team the development manager was promo
 
 In the beginning we had no real team planning. Tickets were assigned by the development manager and the developers completed the tickets.
 
-We had daily standups to review status, but it was more of a status meeting for the development manager than an effective tool to build team work and accelerate the flow of work.
+We had daily standups to review status, but it was more of a status meeting for the development manager than an effective tool to build team work and accelerate the flow of work
 
 #Requirements Review
 
