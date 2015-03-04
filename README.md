@@ -1,0 +1,1 @@
+This is my attempt at writing a book. I decided to just chronicle my teams transformation into an agile software delivery team. Let's see how it goes.
