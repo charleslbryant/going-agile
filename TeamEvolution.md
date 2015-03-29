@@ -26,6 +26,8 @@ Does a team need to be co-located to communicate effectively? I don't think co-l
 
 ##My Team Evolution
 
+My current product team has gone through multiple organizational changes over the past few years. This has been in response to growing business demands and a desire to go agile. Below is an overview of various iterations of the team structure.
+
 ###v1.0
 
 ####Roles
