@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Goals](goals.md)
+* [Goals](Goals.md)
 * [Sprinting](Sprinting.md)
 * [Testing](Testing.md)
 * [Team](TeamEvolution.md)
