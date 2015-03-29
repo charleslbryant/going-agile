@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Goals](Goals.md)
-* [Planing](Planing.md)
+* [Planning](Planning.md)
 * Developing
 * Building
 * Deploying
