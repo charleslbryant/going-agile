@@ -4,9 +4,9 @@
 * [Goals](Goals.md)
 * [Sprinting](Sprinting.md)
 * Developing
+* Building
 * [Testing](Testing.md)
 * [Team](TeamEvolution.md)
-* Building
 * Deploying
 * Montioring
 
