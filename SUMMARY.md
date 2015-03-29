@@ -6,4 +6,5 @@
 * [Testing](Testing.md)
 * [Team](TeamEvolution.md)
 * Developing
+* Building
 
