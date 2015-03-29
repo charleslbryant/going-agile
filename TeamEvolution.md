@@ -1,6 +1,18 @@
 #Team
 
+In software development "team" is an overloaded term. It could be a two person team like the automation team I am currently on. It could mean the product team, development team, engineering team... etc. 
 
+When I speak of team I like to think of a product delivery team. The product being some sort of software product. I consider a product team as two or more people organized to deliver software. There are many roles that need to be covered on the product delivery team and many times one person can serve in multiple roles.
+
+In my experience there have been roles for:
+
+* Product Manager
+* Business Analyst
+* Development Manager
+* Technical Lead
+* Developer
+* Risk Analyst
+* Infrastructure
 
 ##My Team Evolution
 
