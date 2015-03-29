@@ -8,4 +8,5 @@
 * Developing
 * Building
 * Deploying
+* Montioring
 
