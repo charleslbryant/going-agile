@@ -5,8 +5,8 @@
 * [Sprinting](Sprinting.md)
 * Developing
 * Building
-* [Testing](Testing.md)
 * Deploying
+* [Testing](Testing.md)
 * Montioring
 * [Team](TeamEvolution.md)
 
