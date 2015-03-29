@@ -12,6 +12,10 @@ Fast automated feedback on the production readiness of every change to your appl
 
 Continuous improvement is an ongoing effort to improve products, services, or processes. http://en.wikipedia.org/wiki/Continual_improvement_process
 
+## DevOps
+
+DevOps is a software development method that stresses communication, collaboration, integration, automation and measurement of cooperation between software developers and other information-technology (IT) professionals.
+
 ## Kaizen
 
 Japanese for "change for better". http://en.wikipedia.org/wiki/Kaizen
@@ -20,6 +24,6 @@ Japanese for "change for better". http://en.wikipedia.org/wiki/Kaizen
 
 http://www.agilealliance.org/the-alliance/the-agile-manifesto/the-twelve-principles-of-agile-software/
 
-## DevOps
+## Improvement Kata
 
-DevOps is a software development method that stresses communication, collaboration, integration, automation and measurement of cooperation between software developers and other information-technology (IT) professionals.
+A structured routine to improve in a scientific manner. http://www.lean.org/kata/
