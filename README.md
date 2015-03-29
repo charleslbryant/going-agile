@@ -17,3 +17,5 @@ For me going agile has meant embracing the [agile manifesto](http://agilemanifes
 If your team is just embarking on your going agile experience, it helps to understand that there will be many ups and downs, successes and failures. Through it all it helps reduce stress to realize that this is to be expected and you will most likely get it wrong. Learning from failures is how you improve and if you are going agile the right way you will never stop failing and your "Going Agile" story will be never ending.
 
 My ultimate advice for teams looking to go agile is to just jump in. Don't spend months trying to plan it or understand it. If you don't have a total buy in from your company you can still agilize what you have control of. It's somewhat foolish in my eyes if you don't commit on some level to continuously improve. It could be as simple as understanding the agile manifesto, the twelve agile principles, and establishing a improvement kata. Take small steps and learn from each failure so you can improve in the next iteration. 
+
+Have fun "Going Agile!"
