@@ -7,6 +7,6 @@
 * Building
 * [Testing](Testing.md)
 * Deploying
-* [Team](TeamEvolution.md)
 * Montioring
+* [Team](TeamEvolution.md)
 
