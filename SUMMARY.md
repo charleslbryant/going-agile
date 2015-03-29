@@ -9,4 +9,5 @@
 * [Testing](Testing.md)
 * Montioring
 * [Team](TeamEvolution.md)
+* Releasing
 
