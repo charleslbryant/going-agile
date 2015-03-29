@@ -22,7 +22,7 @@ Of course these can be defined simpler or more granularity, but this has fit my 
 
 When going agile team communication is at the heart of successful implementation of an agile methodology. From cross team discussions to plan sprints to delivering feedback at various steps in the delivery pipeline, a team that can communicate will be much more effective and efficient in delivering value.
 
-Does a team need to be co-located to communicate effectively? I don't think co-location is a necessity, but I think that there may be times when it is better.
+Does a team need to be co-located to communicate effectively? I don't think co-location is a necessity, but I would assume that there are situation where it is best. I haven't been in that situation, but there has always been a "traditional" rule that says the team must work in the same office to be effective. This is just my personal opinion. Most meetings I go to could have been done virtually, not only done but done more effectively with the quality of communication tools today. Having worked in an open format office, distraction is an issue. At times its great to be able to shout over a desk to talk to someone, but many times useless dialog is the result. Yet, there are people who feel the distractions and useless dialog are instrumental in building team cohesion. Being an introvert I obviously disagree.
 
 ##My Team Evolution
 
