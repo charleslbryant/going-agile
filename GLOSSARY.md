@@ -22,4 +22,4 @@ http://www.agilealliance.org/the-alliance/the-agile-manifesto/the-twelve-princip
 
 ## DevOps
 
-DevOps (a portmanteau of "development" and "operations") is a software development method that stresses communication[buzzword], collaboration[buzzword] (information sharing and web service usage), integration[buzzword], automation[buzzword] and measurement of cooperation[buzzword] between software developers and other information-technology (IT) professionals.
+DevOps is a software development method that stresses communication, collaboration, integration, automation and measurement of cooperation between software developers and other information-technology (IT) professionals.
