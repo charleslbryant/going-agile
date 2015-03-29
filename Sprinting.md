@@ -1,4 +1,4 @@
-#Sprinting
+#Planning
 
 I won't go into what a sprint is because it is common knowledge in the software industry and there is tons of resources about it online. When I joined the team they were already sprinting. We went through various evolutions as we moved from a more waterfall based sprint to a more agile sprint.
 
