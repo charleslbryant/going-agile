@@ -22,6 +22,8 @@ Of course these can be defined simpler or more granularity, but this has fit my 
 
 When going agile team communication is at the heart of successful implementation of an agile methodology. From cross team discussions to plan sprints to delivering feedback at various steps in the delivery pipeline, a team that can communicate will be much more effective and efficient in delivering value.
 
+Does a team need to be co-located to communicate effectively? I don't think co-location is a necessity, but I think that there may be times when it is better.
+
 ##My Team Evolution
 
 ###v1.0
