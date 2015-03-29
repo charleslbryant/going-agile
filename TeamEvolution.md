@@ -4,15 +4,23 @@ In software development "team" is an overloaded term. It could be a two person t
 
 When I speak of team I like to think of a product delivery team. The product being some sort of software product. I consider a product team as two or more people organized to deliver software. There are many roles that need to be covered on the product delivery team and many times one person can serve in multiple roles.
 
+##Roles
+
 In my experience there have been roles for:
 
-* Product Manager
-* Business Analyst
-* Development Manager
-* Technical Lead
-* Developer
-* Risk Analyst
-* Infrastructure
+* Product Manager - manages product's business direction and priorities
+* Business Analyst - designs product specifications
+* Development Manager -  manages product's technical direction and priorities
+* Technical Lead - designs product architecture
+* Developer - develops product
+* Risk Analyst - assesses product risks
+* Infrastructure - manages product release and infrastructure
+
+Of course these can be defined simpler or more granularity, but this has fit my experience well. I guess the point in all this is that roles don't really matter as long as the team understands who does what.
+
+##Communication
+
+When going agile team communication is at the heart of successful implementation of an agile methodology. From cross team discussions to plan sprints to delivering feedback at various steps in the delivery pipeline, a team that can communicate will be much more effective and efficient in delivering value.
 
 ##My Team Evolution
 
