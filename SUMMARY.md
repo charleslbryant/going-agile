@@ -7,4 +7,5 @@
 * [Team](TeamEvolution.md)
 * Developing
 * Building
+* Deploying
 
