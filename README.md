@@ -10,4 +10,4 @@ From the time I joined the team our delivery process has included:
 * Releasing
 * Monitoring
 
-How we actually did each of these has changed during our going agile journey.
+How we actually did each of these has changed during our going agile journey. For me going agile has meant embracing the agile manifesto, continuous improvement and Kaizen.
