@@ -6,7 +6,7 @@
 * Developing
 * Building
 * [Testing](Testing.md)
-* [Team](TeamEvolution.md)
 * Deploying
+* [Team](TeamEvolution.md)
 * Montioring
 
