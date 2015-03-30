@@ -8,9 +8,9 @@ When I began there was a release every few months and what was included in the r
 
 ###v2.0
 
-As we move to a more agile release. Releases were planned by the full team in an all hands meeting. We would review the backlog as a team. The product manager would set priority for each item and the team would agree on what release to align items under. Release were set on a monthly schedule that consists of 2 sprints.
+Going agile we move to team release planning. Releases are planned by the full team in an all hands quarterly meeting. In the release planning meeting we review the backlog as a team. The product manager gives a brief overview of each item in the backlog and sets the priority for them. The team agrees on what release to align items under. Release are set on a monthly schedule that consists of 2 sprints. By the end of the 1-2 hour meeting the releases for the next quarter are scheduled.
 
-There was no magic formula we just said this was the way it is and we made it so. Suprisingly, the product didn't suddenly fall on its face. We were able to keep the schedule while maintaining release quality. In the end we increased the amount and flow of value to end users, while improving the work experience by instilling a feeling of product ownership throughout the entire team.
+There is no magic formula to making this agile transition. The product and development manager said this is the way and the team made it so. Surprisingly, the product didn't suddenly fall on its face. We were able to keep the schedule while maintaining release quality. In the end we increased the amount and flow of value to end users, while improving the work experience by instilling a feeling of product ownership throughout the entire team.
 
 ##Sprint Planning
 
@@ -20,7 +20,7 @@ I won't go into what a sprint is. It is common knowledge in the software industr
 
 In the beginning we had no real team planning. Tickets were assigned by the development manager and the developers completed the tickets. The development manager and product manager would plan sprints in closed door meetings. Then the development manager would consult with the tech manager for estimations. The development manager and tech lead met with developers to discuss the development plan (architecture, design...).
 
-We had daily standups or Scrum to review status, but it was more of a status meeting for the development manager than an effective tool to build team work and accelerate the flow of work.
+We had daily stand-ups or Scrum to review status, but it was more of a status meeting for the development manager than an effective tool to build team work and accelerate the flow of work.
 
 ###v2.0
 
