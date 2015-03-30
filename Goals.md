@@ -1,10 +1,12 @@
 #Goals
 
-To give some perspective on the reason for our team going agile I will present the goals I laid out for my small team. These goals are linked to the overall team goals and the overall corporate goals. Defining the reason for going agile and what you hope to accomplish is a very important first step in going agile. Making sure your goals are linked up the hierarchy to overall business goals will help keep the entire team aligned and focused on the same end results.
+Defining the reason for going agile and what you hope to accomplish is a very important first step in going agile. Making sure your goals are linked up the company hierarchy to overall business goals will help keep the entire team aligned and focused on the same end results.
 
-In addition to goals I included some principles and practices to help achieve each goal. Again, this is overwhelmingly slanted towards the automation team and achieving continuous delivery, but I believe that automation continuous delivery directives that came from corporate was one of the primary drivers of going agile.
+Having the entire business invested in agile is very important to actually going agile. Moving an enterprise waterfall team to agile is virtually impossible, in my opinion, without agreement from the individual teams up to top level executives. Taking some time to define an initial set of goals will help give a common target to focus on while you begin your going agile journey.
 
-Having the entire business invested in agile is very important to actually going agile. Moving an enterprise waterfall team to agile is virtually impossible, in my opinion, without agreement from the individual teams tup to top level executives.
+To give some perspective on the reason for our team going agile, below I present the goals I laid out for my small team. These goals are linked to the overall team and corporate goals. In addition to goals, I included some principles and practices to help achieve each goal. Again, this is overwhelmingly slanted towards my automation team and achieving continuous delivery, but I believe that the automation and continuous delivery directives that came from corporate was one of the primary drivers of us accelerating our going agile story.
+
+These goals have evolved as we came to better understand where we wanted to go with agile.
 
 ##Increase the amount of value delivered to end users
 
