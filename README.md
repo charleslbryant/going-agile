@@ -20,11 +20,13 @@ For me going agile has meant embracing the [agile manifesto](http://agilemanifes
 
 ##Going Agile Recommendation
 
-If your team is finally "Going Agile" I applaud you. There has been a lot of backlash against going agile because so many people are trying to profit off of agile. There are so many agile methodologies, classes, certifications and tools that agile has been complicated.
+My ultimate advice for teams looking to go agile is to just jump in. I can here the certified agile experts cursing my name for saying that, but agile is much simpler than someone trying to make money off of it will admit it. Don't spend months trying to plan it or understand it. There is no "one way fit all" approach to going agile. Its best if individual teams discover how to go agile within the context of their product.
+
+If your team is finally "Going Agile" I applaud you. There has been a lot of backlash against going agile because so many people are trying to profit off of agile. There are so many agile methodologies, certifications, books, classes and tools that agile has been complicated.
 
 You should understand that there will be successes and failures. You can reduce stress by realizing failure is encouraged and expected as you go agile. The fact is you will most likely get it wrong. Learning from failures is how you improve. If you are going agile the right way, you will never stop failing and your "Going Agile" story will be never ending.
 
-My ultimate advice for teams looking to go agile is to just jump in. I can here the certified agile experts cursing my name for saying that, but agile is much simpler than someone trying to make money off of it will admit it. Don't spend months trying to plan it or understand it. There is no one way fit all approach to going agile and its best if individual teams discover how to go agile within the context of their product. Even if you don't have total buy in from your company you should still "agilize" what you have control of. There seems to be a big push for enterprise agile or agile at scale, but even if your company hasn't establish a roadmap to fostering an agile culture, your team can still take the plunge. 
+ Even if you don't have total buy in from your company you should still "agilize" what you have control of. There seems to be a big push for enterprise agile or agile at scale, but even if your company hasn't establish a roadmap to fostering an agile culture, your team can still take the plunge. 
 
 In my eyes it's somewhat foolish if a team doesn't commit on some level to continuously improving and subscribing to some of the agile principles. There is enough data and experience in the industry to prove that agile works for software development teams of all sizes and situations. Getting started could be as simple getting an overview of the the agile manifesto, the twelve agile principles, and establishing an improvement kata. So, just get started, take small steps, and learn from each failure so you can improve in the next iteration. Never stop learning and "stick and move." 
 
