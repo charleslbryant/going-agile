@@ -1,8 +1,16 @@
 #Planning
 
-I won't go into what a sprint is because it is common knowledge in the software industry and there is tons of resources about it online. When I joined the team they were already sprinting. We went through various evolutions as we moved from a more waterfall based sprint to a more agile sprint.
+##Release Planning
+
+When I began there was a release every few months and what was included in the release was decided in a closed door meeting between the product and development manager.
+
+As we move to a more agile release. Releases were planned by the full team in an all hands meeting. We would review the backlog and the product manager would set priority and the team would agree on what release to align items under. Release were set on a monthly schedule.
+
+There was no magic formula we just said this was the way it is and we made it so. Suprisingly the product didn't suddenly fall on its face.
 
 ##Sprint Planning
+
+I won't go into what a sprint is. It is common knowledge in the software industry and there are tons of resources about it online. When I joined the team they were already sprinting. We went through various evolutions as we moved from a more waterfall based sprint to a more agile sprint.
 
 ###v1.0
 
