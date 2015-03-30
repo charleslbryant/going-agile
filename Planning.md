@@ -2,11 +2,15 @@
 
 ##Release Planning
 
+###v1.0
+
 When I began there was a release every few months and what was included in the release was decided in a closed door meeting between the product and development manager.
 
-As we move to a more agile release. Releases were planned by the full team in an all hands meeting. We would review the backlog and the product manager would set priority and the team would agree on what release to align items under. Release were set on a monthly schedule.
+###v2.0
 
-There was no magic formula we just said this was the way it is and we made it so. Suprisingly the product didn't suddenly fall on its face.
+As we move to a more agile release. Releases were planned by the full team in an all hands meeting. We would review the backlog as a team. The product manager would set priority for each item and the team would agree on what release to align items under. Release were set on a monthly schedule that consists of 2 sprints.
+
+There was no magic formula we just said this was the way it is and we made it so. Suprisingly, the product didn't suddenly fall on its face. We were able to keep the schedule while maintaining release quality. In the end we increased the amount and flow of value to end users, while improving the work experience by instilling a feeling of product ownership throughout the entire team.
 
 ##Sprint Planning
 
