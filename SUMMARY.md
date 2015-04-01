@@ -6,7 +6,7 @@
 * Developing
 * Building
 * Provisioning
-* Deploying
+* [Deploying](deploying.md)
 * [Testing](Testing.md)
 * Releasing
 * Montioring
