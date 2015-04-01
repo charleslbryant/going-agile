@@ -4,11 +4,15 @@
 
 ###v1.0
 
-When I began there was a release every few months and what was included in the release was decided in a closed door meeting between the product and development manager.
+When I began there was a release every few months and what was included in the release was decided in a closed door meeting between the product and development manager. Releases had hard deadlines and everything planned in the release was expected to be in the release before it could be delivered (not very agile).
 
 ###v2.0
 
-Going agile we move to team release planning. Releases are planned by the full team in an all hands quarterly meeting. In the release planning meeting we review the backlog as a team. The product manager gives a brief overview of each item in the backlog and sets the priority for them. The team agrees on what release to align items under. Release are set on a monthly schedule that consists of 2 sprints. By the end of the 1-2 hour meeting the releases for the next quarter are scheduled.
+Going agile we moved to team release planning. Releases are planned by the full team in an all hands quarterly meeting. In the release planning meeting we review the backlog as a team. The product manager gives a brief overview of each item in the backlog and sets the priority for them. The team agrees on what release to align items under. 
+
+Releases are set on a monthly schedule that consists of 2 sprints. 
+
+By the end of the 1-2 hour meeting the releases for the next quarter are scheduled.
 
 There is no magic formula to making this agile transition. The product and development manager said this is the way and the team made it so. Surprisingly, the product didn't suddenly fall on its face. We were able to keep the schedule while maintaining release quality. In the end we increased the amount and flow of value to end users, while improving the work experience by instilling a feeling of product ownership throughout the entire team.
 
