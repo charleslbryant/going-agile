@@ -1,10 +1,14 @@
-# Deploying
+#Deploying
+
+##Application Deployment
 
 ##Database Deployment
 
 ###Before Agile
 
 The database deployment automation task scripts are written in NAnt. The deployment server runs the NAnt file and calls a target to orchestrate the deployment process. This is a high level overview of the work flow:
+
+####Workflow
 
 - Configure master database connection string.
 - Create objects for each database included in a text file that has each database on a new line.
@@ -47,11 +51,13 @@ The database deployment automation task scripts are written in NAnt. The deploym
 
 #### Process
 
-This work flow works by running SQL files that are kept in the source repository. When a developer makes a change to a database object they make the change in an SQL file and commit the change to the source repository. When the deployment is triggered the server downloads updates from the source repository. Then the deployment goes through the work flow above and runs the updated SQL files on the databases. 
+This work flow works by running SQL files from a source repository to drop and recreate database objects. When a developer makes a change to a database object they make the change in an SQL file and commit the change to the source repository. When the deployment runs the server downloads updates from the source repository. Then the deployment goes through the work flow above and runs the updated SQL files on the databases. 
 
 ####Issues
 
-The problem with this deployment strategy is schema changes are never deployed. If an object was updated that requires a corresponding schema change it may blow up the deployment. Developers do store schema changes in the database, but they are stored in create scripts, not alters. To update the schema you have to drop the table being changed and run the create script. This is not a viable solution for deploying to production or environments that you care about data loss in.
+The problem with this deployment strategy is schema changes are never deployed. If an object change requires a corresponding schema change it may blow up the deployment. For example, we need to query a new table column. The column changed in a stored procedure and corresponding table script. The process doesn't run the table scripts so the column isn't created. When the new stored procedure runs it will fail because the column doesn't exits on the table. 
+
+As illustrated above, developers do store schema changes in the source repository. The changes are create scripts, not alters, so you can't run them on existing tables. To update the schema you have to drop the table and run the create script. This is not a viable solution for deploying to production or environments that you care about data loss in.
 
 When there are no schema changes involved this deployment strategy is easy to rollback. You just deploy an earlier commit from the source repository. Again, if there were any schema changes you will be in a world of hurt trying to rollback.
 
