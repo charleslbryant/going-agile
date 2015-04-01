@@ -1,6 +1,6 @@
 #Goals
 
-Defining the reason for going agile and what you hope to accomplish is a very important first step in going agile. Making sure your goals are linked up the company hierarchy to overall business goals will help keep the entire team aligned and focused on the same end results.
+Defining the reason for going agile and what you hope to accomplish is a very important first step in going agile. Linking goals to overall business goals will help keep the team aligned and focused on the same end results.
 
 Having the entire business invested in agile is very important to actually going agile. Moving an enterprise waterfall team to agile is virtually impossible, in my opinion, without agreement from the individual teams up to top level executives. Taking some time to define an initial set of goals will help give a common target to focus on while you begin your going agile journey.
 
