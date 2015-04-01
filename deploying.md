@@ -4,7 +4,7 @@
 
 ###Before Agile
 
-The database deployment automation task scripts are written in NAnt. The deployment server runs the NAnt file and calls a target to orchestrate the deployment process. This is a high level overview of the workflow:
+The database deployment automation task scripts are written in NAnt. The deployment server runs the NAnt file and calls a target to orchestrate the deployment process. This is a high level overview of the work flow:
 
 - Configure master database connection string.
 - Create objects for each database included in a text file that has each database on a new line.
@@ -47,15 +47,15 @@ The database deployment automation task scripts are written in NAnt. The deploym
 
 #### Process
 
-This work flow works by running sql files that are kept in the source repository. When a developer needs to make a change to a database object they make the change to the sql file and commit the change to the source repository. When the deployment is triggered the  server will download updates from the source repository and the work flow above runs the updated sql files on the databases. 
+This work flow works by running SQL files that are kept in the source repository. When a developer makes a change to a database object they make the change in an SQL file and commit the change to the source repository. When the deployment is triggered the server downloads updates from the source repository. Then the deployment goes through the work flow above and runs the updated SQL files on the databases. 
 
 ####Issues
 
-The problem with this deployment strategy is schema changes are never deployed. If an object was updated that requires a corresponding schema change it may blow up the deployment. Developers do store schema changes in the database, but they are stored in create scripts, not alters. So, to update schema you have to first drop the table being changed, including its indexes, relations... etc., and run the create script. This is obviously not a viable solution for deploying to production or environments that you care about data loss in.
+The problem with this deployment strategy is schema changes are never deployed. If an object was updated that requires a corresponding schema change it may blow up the deployment. Developers do store schema changes in the database, but they are stored in create scripts, not alters. To update the schema you have to drop the table being changed and run the create script. This is not a viable solution for deploying to production or environments that you care about data loss in.
 
-This deployment strategy is easy to rollback, when there are no schema changes involved. Just deploy an earlier commit from the source repository and the database objects will be created from that commit. Again, if there were any schema changes you will be in a world of hurt trying to rollback.
+When there are no schema changes involved this deployment strategy is easy to rollback. You just deploy an earlier commit from the source repository. Again, if there were any schema changes you will be in a world of hurt trying to rollback.
 
-One side note, we had a process in our regression test script that would drop and recreate all of the tables with the scripts from the source repository. This works in this instance because we want to have fresh data in each regression test run to cut down on flaky tests.
+We do make schema changes in our regression tests. The test script drops and recreates the tables with the create scripts from the source repository. This works in this instance because we want to have fresh data in each regression test run to cut down on flaky tests.
 
 ###After Agile
 
