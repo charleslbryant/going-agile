@@ -28,18 +28,19 @@ These goals have evolved as we came to better understand where we wanted to go w
     - Infrastructure as code
     - Validate new server nodes and network before use
   - Measure the amount of value to end users
-  - Monitor value measures to determine when you are successful
+  - Monitor value measures to determine success and failure
 
 ###Increase the flow of value to end users
 
 - Identify, protect, and improve bottlenecks
   - Map value stream
-- Decouple the architecture so that build, deploy, test and rollbacks can happen at component level
-- Make deployment easy... push button
+- Decouple the architecture so that delivery (build, deploy, test, rollback...) can happen at component level
+- Make delivery easy... push button
 - Reduce feedback loops
-    - Provide continuous feedback for build, deploy and test 
+    - Keep delivery pipeline fast
+    - Provide continuous feedback for each step of the delivery process 
 - Measure the flow of value to customers
-- Monitor flow measurements to determine when you are successful
+- Monitor flow measurements to determine success and failure
 
 ###Improve the work experience
 
@@ -47,3 +48,4 @@ These goals have evolved as we came to better understand where we wanted to go w
 - Self organized teams
 - Improve communication
 - Make feedback openly visible
+- Conduct postmortems and poll team to determine success and failure
