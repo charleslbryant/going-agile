@@ -4,11 +4,17 @@ Defining the reason for going agile and what you hope to accomplish is a very im
 
 Having the entire business invested in agile is very important to actually going agile. Moving an enterprise waterfall team to agile is virtually impossible, in my opinion, without agreement from the individual teams up to top level executives. Taking some time to define an initial set of goals will help give a common target to focus on while you begin your going agile journey.
 
-To give some perspective on the reason for our team going agile, below I present the goals I laid out for my small team. These goals are linked to the overall team and corporate goals. In addition to goals, I included some principles and practices to help achieve each goal. Again, this is overwhelmingly slanted towards my automation team and achieving continuous delivery, but I believe that the automation and continuous delivery directives that came from corporate was one of the primary drivers of us accelerating our going agile story.
+##Perspective
 
-These goals have evolved as we came to better understand where we wanted to go with agile.
+These goals are overwhelmingly slanted towards my automation team and achieving continuous delivery. Automation and continuous delivery goals from our executives was the primary accelerant in our going agile story. The perspective gained from formulating goals based on core business goals gave us a clear target to shoot for.
 
-##Increase the amount of value delivered to end users
+To give you some perspective on the reason for our team going agile, below I present the goals I laid out for my small team. These goals are linked to the overall team and corporate goals. In addition to goals, I included some important principles and practices to help achieve each goal. 
+
+These goals have evolved as we came to better understand where we wanted to go with agile and they continue to change to day as our perspective changes and situations change.
+
+##My Team Goals
+
+###Increase the amount of value delivered to end users
 
 - Increase the quality of the product we deliver to end users
   - Improve automated testing
@@ -24,7 +30,7 @@ These goals have evolved as we came to better understand where we wanted to go w
   - Measure the amount of value to end users
   - Monitor value measures to determine when you are successful
 
-##Increase the flow of value to end users
+###Increase the flow of value to end users
 
 - Identify, protect, and improve bottlenecks
   - Map value stream
@@ -35,7 +41,7 @@ These goals have evolved as we came to better understand where we wanted to go w
 - Measure the flow of value to customers
 - Monitor flow measurements to determine when you are successful
 
-##Improve the work experience
+###Improve the work experience
 
 - Blameless culture
 - Self organized teams
