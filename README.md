@@ -1,6 +1,6 @@
 #Introduction
 
-This is my attempt at writing a book. I decided to just chronicle my teams transformation into an agile software product delivery team. Let's see how it goes. This is taken from my perspective as a team member and not a manager. I am currently the Lead Automation Engineer on the team and my views are taken from my perspective in this position.
+This is my attempt at writing a book to explore the new digital book writing and self publishing platform http://www.gitbook.com. I decided to just chronicle my teams transformation into an agile software product delivery team. Let's see how it goes. This is taken from my perspective as a team member and not a manager. I am currently the Lead Automation Engineer on the team and my views are taken from my perspective in this position.
 
 ##Going Agile
 
@@ -20,7 +20,7 @@ For me going agile has meant embracing the [agile manifesto](http://agilemanifes
 
 ##Going Agile Recommendation
 
-My ultimate advice for teams looking to go agile is to just jump in. I can here the certified agile experts cursing my name for saying that, but agile is much simpler than someone trying to make money off of it will admit it. Don't spend months trying to plan it or understand it. There is no "one way fit all" approach to going agile. Its best if individual teams discover how to go agile within the context of their product.
+My ultimate advice for teams looking to go agile is to just jump in. I can hear the certified agile experts cursing my name for saying that, but agile is much simpler than someone trying to make money off of it will admit it. Don't spend months trying to plan it or understand it. There is no "one way fit all" approach to going agile. Its best if individual teams discover how to go agile within the context of their product.
 
 If your team is finally "Going Agile," I applaud you. There has been a lot of backlash against going agile because so many people are trying to profit off of agile. There are so many agile methodologies, certifications, books, classes and tools that agile has been complicated. Many teams are listening to experts and failing to achieve the success they hear about in seminars and give up. You shouldn't just blindly copy someones agile process or buy your way into agile. Expensive consultants shouldn't be employed to bend your teams into the agile way. I am not saying that you shouldn't listen to experts or go to seminars, just do it with the understanding that agile is contextual. Your teams should define what agile is for them, your executives and managers have to allow teams to go agile on their terms, and your organization as a whole needs to buy in to an agile culture.
 
