@@ -4,7 +4,7 @@ This is my attempt at writing a book to explore the new digital book writing and
 
 ##Going Agile
 
-From the time I joined the team our delivery pipeline has included:
+From the time I joined the team our software delivery pipeline has included:
 
 * Planning
 * Developing
@@ -14,13 +14,20 @@ From the time I joined the team our delivery pipeline has included:
 * Releasing
 * Monitoring
 
-How we actually did each of these has changed during our going agile journey. Throughout this book I will strive to explain how our process has evolved in respect to each of these steps in our delivery pipeline. 
+How we actually did each of these has changed during our going agile journey. Throughout this book I will strive to explain how our process has evolved. Going agile is not easy because software development isn't easy. 
 
-For me going agile has meant embracing the [agile manifesto](http://agilemanifesto.org/), the [twelve agile principles](http://www.agilealliance.org/the-alliance/the-agile-manifesto/the-twelve-principles-of-agile-software/), [continuous improvement](http://en.wikipedia.org/wiki/Continual_improvement_process) and [Kaizen](http://en.wikipedia.org/wiki/Kaizen). Since I am throwing around buzz words it can't hurt to mention that my love affair with [continuous delivery](http://martinfowler.com/bliki/ContinuousDelivery.html) and [devops](http://en.wikipedia.org/wiki/DevOps) has greatly influenced my personal experience in our going agile story. My love affair was sparked by a wonderful novel by [Gene Kim](http://itrevolution.com/authors/gene-kim/) titled the [Phoenix Project](http://www.amazon.com/The-Phoenix-Project-Helping-Business/dp/0988262592).
+For me going agile has meant embracing some core concepts: 
+
+* [Agile Manifesto](http://agilemanifesto.org/)
+* [Twelve Agile Principles](http://www.agilealliance.org/the-alliance/the-agile-manifesto/the-twelve-principles-of-agile-software/)
+* [Continuous Improvement](http://en.wikipedia.org/wiki/Continual_improvement_process)
+* [Kaizen](http://en.wikipedia.org/wiki/Kaizen)
+ 
+Since I am throwing around buzz words, it can't hurt to mention that my love affair with [continuous delivery](http://martinfowler.com/bliki/ContinuousDelivery.html) and [DevOps](http://en.wikipedia.org/wiki/DevOps) has greatly influenced my personal experience in our going agile story. My love affair was sparked by a wonderful novel by [Gene Kim](http://itrevolution.com/authors/gene-kim/) titled the [Phoenix Project](http://www.amazon.com/The-Phoenix-Project-Helping-Business/dp/0988262592).
 
 ##Going Agile Recommendation
 
-My ultimate advice for teams looking to go agile is to just jump in. I can hear the certified agile experts cursing my name for saying that, but agile is much simpler than someone trying to make money off of it will admit it. Don't spend months trying to plan it or understand it. There is no "one way fit all" approach to going agile. Its best if individual teams discover how to go agile within the context of their product.
+My ultimate advice for teams looking to go agile, just jump into it. I can hear the certified agile experts cursing my name for saying that, but agile is much simpler than someone trying to make money off of it will admit it. "Responding to change instead of following a plan," this is the last value in the agile manifesto. Don't spend months trying to plan it or understand it. There is no "one way fit all" approach to going agile. You can't buy a book and follow it word for word or higher a consultant to wave a magic agile wand. Its best if individual teams discover how to go agile within the context of their product.
 
 If your team is finally "Going Agile," I applaud you. There has been a lot of backlash against going agile because so many people are trying to profit off of agile. There are so many agile methodologies, certifications, books, classes and tools that agile has been complicated. Many teams are listening to experts and failing to achieve the success they hear about in seminars and give up. You shouldn't just blindly copy someones agile process or buy your way into agile. Expensive consultants shouldn't be employed to bend your teams into the agile way. I am not saying that you shouldn't listen to experts or go to seminars, just do it with the understanding that agile is contextual. Your teams should define what agile is for them, your executives and managers have to allow teams to go agile on their terms, and your organization as a whole needs to buy in to an agile culture.
 
