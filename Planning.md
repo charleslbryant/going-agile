@@ -8,7 +8,7 @@ When I began there was a release every few months. The items in the release were
 
 ###v2.0
 
-Going agile, we moved to team release planning. Releases are planned by the full team in an all hands quarterly meeting. In the release planning meeting we review the backlog as a team. The product manager gives a brief overview of each item in the backlog and sets the priority for them. Then the team agrees on what release to align the prioritized items under. 
+Going agile, we moved to team release planning. Releases are planned by the full team in an all hands quarterly meeting. In the release planning meeting we review the backlog as a team. The product manager gives a brief overview of each item in the backlog and sets the priority for them. The team agrees on what release to align the prioritized items under. 
 
 Then the releases are set on a monthly schedule that consists of 2 sprints. By the end of the 1-2 hour meeting the releases for the next quarter are scheduled. This is still waterfall'ish in my opinion, but we got rid of the infexibility and hard deadlines. It was no longer a bad thing to extend a deadline or remove an item from a release as long as it wasn't expected by a customer or affected an external agreement. 
 
@@ -28,13 +28,15 @@ We had daily stand-ups or Scrum to review status, but it was more of a status me
 
 Going agile we switch to a more team approach to sprint planning. 
 
+Before the start of each sprint the delivery team convenes to plan the sprint. The first order of business is to select a sprint lead. The sprint lead will be responsible for the sprint, running the sprint meetings and scrum, also the leader will be the developer left behind to support the sprint as it moves to production and the rest of the sprint team moves on to the next sprint. 
+
 ####Requirements Review
 
-Before the start of each sprint the delivery team convenes to plan the sprint. The first meeting is a requirement review. In the requirement review, the team discusses the requirements and break out tickets. How this is done is not really important as long as the team agrees on the break out. 
+The first meeting is a requirement review. In the requirement review, the team discusses the requirements and break out tickets. How this is done is not really important as long as the team agrees on the break out. 
 
 We try to break out tickets so that they are large enough for at least a days work for one developer. If a ticket is larger than a few days it should be broken down into sub tickets. 
 
-Each ticket should also be testable on some level. Either by a unit test, API test, or UI test. If the ticket is for creating database objects, configuration or infrastructure changes, or other non-code change, the test would be a visual inspection or preferably by some means of automatically testing the change.
+Each ticket should also be testable on some level. Either by a unit test, API test, or UI test. If the ticket is for creating database objects, configuration or infrastructure changes, or other non-code change, the test would be a visual inspection or preferably by some automated means of testing the change.
 
 The sprint lead will direct the meeting and make sure the discussion doesn't get bogged down by deep, specific, discussions of the technical details of the ticket. During the meeting the sprint lead will keep track of the tickets by writing the ticket title on a "sticky" and slapping it on the wall. 
 
