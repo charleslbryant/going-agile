@@ -37,6 +37,6 @@ You should understand that there will be successes and failures. You can reduce 
 
 In my eyes, it's somewhat foolish if a team doesn't commit on some level to continuous improvement and subscribing to some of the agile principles. There is enough data and experience in the industry to prove that agile works for software development teams of all sizes and situations. Getting started could be as simple getting an overview of the agile manifesto, the twelve agile principles, and establishing an improvement kata. So, just get started, take small steps, and learn from each failure so you can improve in the next iteration. Never stop learning and "stick and move." 
 
-Lastly, consider writing your own book on gitbook.com or blogging about your experience. One benefit of the agile movement is the community of sharing. 
+Lastly, as an individual in software development consider writing your own book on gitbook.com or blogging about your experience. Join the Twittervers or a LinkedIn group. Get out to a MeetUp or conference. Contribute on GitHub or an open source project. One benefit of the major benefits of the agile movement is the community of sharing and the industry attempting to get better as a whole. 
 
 Have fun "Going Agile!"
