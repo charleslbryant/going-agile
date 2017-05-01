@@ -1,11 +1,12 @@
-#Introduction
+# Introduction
 
-This is my attempt at writing a book to explore the new digital book writing and self publishing platform http://www.gitbook.com. I decided to just chronicle my teams transformation into an agile software product delivery team. Let's see how it goes. This is taken from my perspective as a team member and not a manager. I am currently the Lead Automation Engineer on the team and my views are taken from my perspective in this position.
+This is my attempt at writing a book to explore the new digital book writing and self publishing platform [http://www.gitbook.com](http://www.gitbook.com). I decided to just chronicle my teams transformation into an agile software product delivery team. Let's see how it goes. This is taken from my perspective as a team member and not a manager. I am currently the Lead Automation Engineer on the team and my views are taken from my perspective in this position.
 
-##Going Agile
+## Going Agile
 
 From the time I joined the team our software delivery pipeline has included:
 
+* Discovery
 * Planning
 * Developing
 * Building
@@ -14,18 +15,18 @@ From the time I joined the team our software delivery pipeline has included:
 * Releasing
 * Monitoring
 
-How we actually did each of these has changed during our going agile journey. Throughout this book I will strive to explain how our process has evolved. Going agile is not easy because software development isn't easy. 
+How we actually did each of these has changed during our going agile journey. Throughout this book I will strive to explain how our process has evolved. Going agile is not easy because software development isn't easy.
 
-For me going agile has meant embracing some core concepts: 
+For me going agile has meant embracing some core concepts:
 
 * [Agile Manifesto](http://agilemanifesto.org/)
 * [Twelve Agile Principles](http://www.agilealliance.org/the-alliance/the-agile-manifesto/the-twelve-principles-of-agile-software/)
 * [Continuous Improvement](http://en.wikipedia.org/wiki/Continual_improvement_process)
 * [Kaizen](http://en.wikipedia.org/wiki/Kaizen)
- 
+
 Since I am throwing around buzz words, it can't hurt to mention that my love affair with [continuous delivery](http://martinfowler.com/bliki/ContinuousDelivery.html) and [DevOps](http://en.wikipedia.org/wiki/DevOps) has greatly influenced my personal experience in our going agile story. My love affair was sparked by a wonderful novel by [Gene Kim](http://itrevolution.com/authors/gene-kim/) titled the [Phoenix Project](http://www.amazon.com/The-Phoenix-Project-Helping-Business/dp/0988262592).
 
-##Going Agile Recommendation
+## Going Agile Recommendation
 
 My ultimate advice for teams looking to go agile, just jump into it. I can hear the certified agile experts cursing my name for saying that, but agile is much simpler than someone trying to make money off of it will admit it. "Responding to change instead of following a plan," this is the last value in the agile manifesto. Don't spend months trying to plan it or understand it. There is no "one way fit all" approach to going agile. You can't buy a book and follow it word for word or higher a consultant to wave a magic agile wand. Its best if individual teams discover how to go agile within the context of their product.
 
@@ -33,10 +34,11 @@ If your team is finally "Going Agile," I applaud you. There has been a lot of ba
 
 You should understand that there will be successes and failures. You can reduce stress during agile adoption by realizing failure is encouraged and expected as you go agile. The fact is you will most likely get it wrong. Learning from failures is how you improve. If you are going agile the right way, you will never stop failing and your "Going Agile" story will be never ending.
 
- Even if you don't have total buy in from your company you should still "agilize" what you have control of. There seems to be a big push for enterprise agile or agile at scale, but even if your company hasn't establish a roadmap to fostering an agile culture, your team can still take the plunge. 
+Even if you don't have total buy in from your company you should still "agilize" what you have control of. There seems to be a big push for enterprise agile or agile at scale, but even if your company hasn't establish a roadmap to fostering an agile culture, your team can still take the plunge.
 
-In my eyes, it's somewhat foolish if a team doesn't commit on some level to continuous improvement and subscribing to some of the agile principles. There is enough data and experience in the industry to prove that agile works for software development teams of all sizes and situations. Getting started could be as simple getting an overview of the agile manifesto, the twelve agile principles, and establishing an improvement kata. So, just get started, take small steps, and learn from each failure so you can improve in the next iteration. Never stop learning and "stick and move." 
+In my eyes, it's somewhat foolish if a team doesn't commit on some level to continuous improvement and subscribing to some of the agile principles. There is enough data and experience in the industry to prove that agile works for software development teams of all sizes and situations. Getting started could be as simple getting an overview of the agile manifesto, the twelve agile principles, and establishing an improvement kata. So, just get started, take small steps, and learn from each failure so you can improve in the next iteration. Never stop learning and "stick and move."
 
-Lastly, as an individual in software development consider writing your own book on gitbook.com or blogging about your experience. Join the Twittervers or a LinkedIn group. Get out to a MeetUp or conference. Contribute on GitHub or an open source project. One benefit of the major benefits of the agile movement is the community of sharing and the industry attempting to get better as a whole. 
+Lastly, as an individual in software development consider writing your own book on gitbook.com or blogging about your experience. Join the Twittervers or a LinkedIn group. Get out to a MeetUp or conference. Contribute on GitHub or an open source project. One benefit of the major benefits of the agile movement is the community of sharing and the industry attempting to get better as a whole.
 
 Have fun "Going Agile!"
+

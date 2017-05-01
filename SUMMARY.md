@@ -2,13 +2,13 @@
 
 * [Introduction](README.md)
 * [Goals](Goals.md)
+* Discovery
 * [Planning](Planning.md)
 * [Developing](Developing.md)
-* Building
-* Provisioning
+* [Building](building.md)
+* [Provisioning](provisioning.md)
 * [Deploying](deploying.md)
 * [Testing](Testing.md)
-* Releasing
-* Montioring
-* [Team](TeamEvolution.md)
+* [Releasing](releasing.md)
+* [Montioring](montioring.md)
 
