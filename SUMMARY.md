@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Goals](Goals.md)
-* Discovery
+* [Discovery](discovery.md)
 * [Planning](Planning.md)
 * [Developing](Developing.md)
 * [Building](building.md)
